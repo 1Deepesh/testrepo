@@ -1,0 +1,6 @@
+node() {
+
+    stage('a') {
+        println ("hello world")
+    }
+}
